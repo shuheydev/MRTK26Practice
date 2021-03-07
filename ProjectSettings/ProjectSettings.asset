@@ -595,11 +595,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: MRTK26Practice
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: 
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 00c3a53efc31d801
   metroApplicationDescription: Template_3D
   wsaImages: {}
   metroTileShortName: 
